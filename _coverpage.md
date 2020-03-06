@@ -11,7 +11,7 @@
 - 用于Faster-Framework系列产品
 
 
-[GitHub](https://github.com/faster-framework/faster-framework-project)
+[GitHub](https://github.com/faster-framework/faster-framework-builder)
 [快速开始](/README.md)
 
 ![color](#f7f9ff)
