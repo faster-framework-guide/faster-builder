@@ -7,7 +7,10 @@ Faster-Builder是针对于Faster系列产品的代码生成器，它通过拉取
 
 [文档入口](https://builder.faster.org.cn/)
 
+[在线版](https://builder.faster.xiaoguikeji.cn/)
+
 
 最新版本：[![latest](https://badgen.net/github/release/faster-framework/faster-framework-builder?icon=github)](https://github.com/faster-framework/faster-framework-builder/releases/latest)
 
 您可以订阅[https://github.com/faster-framework/faster-framework-builder/releases.atom](https://github.com/faster-framework/faster-framework-builder/releases.atom)来获得稳定版发布的通知。
+
